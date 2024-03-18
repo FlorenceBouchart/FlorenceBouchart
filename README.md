@@ -12,3 +12,4 @@
  - Outil prévisionnel de machine learning (Python, Streamlit)
  - Analyse d'un jeu de données du Titanic (Python, Spark)
  - Réalisation d'un site web (HTML, Bootstrap, CSS, JavaScript)
+**Vous trouverez ces différents projets dans les répertoires ci-dessous:**
