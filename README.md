@@ -9,11 +9,11 @@
 ## Mes projets : [en cours de chargement sur GitHub]
 ### Orientés data réalisés au cours de ma formation POEC Data Analyst chez Diginamic : 
  - 📚 Un outil de gestion de bibliothèque (MongoDB, Python, Streamlit)
-   *Repository :  Tang-data/POEC_diginamic_groupe2*
+   \n*Repository :  Tang-data/POEC_diginamic_groupe2*
  - 📶 Analyse des données du système de fidélité d'une fromagerie (HDFS, Hbase, Python, PowerBI)
-   *Repository :  Tang-data/POEC_diginamic_groupe2*
+   \n*Repository :  Tang-data/POEC_diginamic_groupe2*
  - 🤖 Outil prévisionnel de machine learning (Python, Streamlit)
-   *Repository :  Tang-data/POEC_diginamic_groupe2*
+   \n*Repository :  Tang-data/POEC_diginamic_groupe2*
  - 📊 Analyse d'un jeu de données du Titanic (Python, Spark)
 
 ### Orientés Développement Web : 
