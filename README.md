@@ -8,17 +8,17 @@
 
 ## Mes projets : [en cours de chargement sur GitHub]
 ### Orientés data réalisés au cours de ma formation POEC Data Analyst chez Diginamic : 
- - Un outil de gestion de bibliothèque (MongoDB, Python, Streamlit)
- - Analyse des données d'une fromagerie (HDFS, Hbase, Python, PowerBI)
- - Outil prévisionnel de machine learning (Python, Streamlit)
- - Analyse d'un jeu de données du Titanic (Python, Spark)
+ - 📚 Un outil de gestion de bibliothèque (MongoDB, Python, Streamlit)
+ - 📶 Analyse des données du système de fidélité d'une fromagerie (HDFS, Hbase, Python, PowerBI)
+ - 🤖 Outil prévisionnel de machine learning (Python, Streamlit)
+ - 📊 Analyse d'un jeu de données du Titanic (Python, Spark)
 
 ### Orientés Développement Web : 
- - Réalisation d'un site web (HTML, Bootstrap, CSS, JavaScript)
+ - 🌐 Réalisation d'un site web (HTML, Bootstrap, CSS, JavaScript)
 
 ### Jeux : 
- - Snake
- - Jeu des jarres
+ - 🐍 Snake
+ - 🏺 Jeu des jarres
 
 
 **Vous trouverez ces différents projets dans les répertoires ci-dessous.**
