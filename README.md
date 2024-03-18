@@ -24,6 +24,8 @@
 
 ### Jeux : 
  - 🐍 Snake
+    
+   *Repository :  snake_js*
  - 🏺 Jeu des jarres
 
 
