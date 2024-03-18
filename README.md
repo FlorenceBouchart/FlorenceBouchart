@@ -29,4 +29,4 @@
  - 🏺 **Jeu des jarres**
 
 
-**Vous trouverez ces différents projets dans les répertoires ci-dessous.**
+### Vous trouverez ces différents projets dans les répertoires ci-dessous.
