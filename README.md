@@ -6,11 +6,17 @@
  - **Début** : 25 avril 2024
  - **Fin** : 28 novembre 2025
 
-## Mes projets : 
+## Mes projets : [en cours de chargement sur GitHub]
+### Orientés data réalisés au cours de ma formation POEC Data Analyst chez Diginamic : 
  - Un outil de gestion de bibliothèque (MongoDB, Python, Streamlit)
  - Analyse des données d'une fromagerie (HDFS, Hbase, Python, PowerBI)
  - Outil prévisionnel de machine learning (Python, Streamlit)
  - Analyse d'un jeu de données du Titanic (Python, Spark)
+
+### Orientés Développement Web, réalisés pour des proches : 
  - Réalisation d'un site web (HTML, Bootstrap, CSS, JavaScript)
 
+### Jeux : 
+ - Snake
+ - Jeu des jarres
 **Vous trouverez ces différents projets dans les répertoires ci-dessous:**
