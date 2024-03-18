@@ -13,7 +13,7 @@
  - Outil prévisionnel de machine learning (Python, Streamlit)
  - Analyse d'un jeu de données du Titanic (Python, Spark)
 
-### Orientés Développement Web, réalisés pour des proches : 
+### Orientés Développement Web : 
  - Réalisation d'un site web (HTML, Bootstrap, CSS, JavaScript)
 
 ### Jeux : 
