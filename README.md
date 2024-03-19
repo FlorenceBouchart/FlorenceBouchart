@@ -10,23 +10,23 @@ Data Analyste →  Aprentie Data Engineer  |  Python, PowerBI, Hbase, HDFS, Spar
 ### Orientés data réalisés au cours de ma formation POEC Data Analyst chez Diginamic : 
  - 📚 **Un outil de gestion de bibliothèque**
 
-   *Repository :  Tang-data/POEC_diginamic_groupe2*
+   *==Repository== :  Tang-data/POEC_diginamic_groupe2*
  - 📶 **Analyse des données du système de fidélité d'une fromagerie**
 
-   *Repository :  Tang-data/POEC_diginamic_groupe2*
+   *==Repository== :  Tang-data/POEC_diginamic_groupe2*
  - 🤖 **Outil prévisionnel de machine learning**
 
-   *Repository :  Tang-data/POEC_diginamic_groupe2*
+   *==Repository== :  Tang-data/POEC_diginamic_groupe2*
  - 📊 **Analyse d'un jeu de données du Titanic**
 
-   *Repository :  titanic_data* 
+   *==Repository== :  titanic_data* 
 ### Orientés Développement Web : 
  - 🌐 **Réalisation d'un site web**
 
 ### Jeux : 
  - 🐍 **Snake**
     
-   *Repository :  snake_js*
+   *==Repository== :  snake_js*
  - 🏺 **Jeu des jarres**
 
 
