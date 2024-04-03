@@ -1,4 +1,10 @@
 # Bienvenue sur mon profil GitHub ! 
+Titulaire d’un diplôme de formation en Data Analyse au sein de Diginamic, je souhaite poursuivre mon parcours dans l’analyse des données. 
+Afin de vous être le plus efficace possible, je poursuis ma formation en alternance en vue de l’obtention d’un master en ingénierie des données.
+
+Je suis passionnée par l’analyse de données pour deux raisons. En premier lieu, ce domaine satisfait ma curiosité car il permet d’en apprendre énormément sur divers sujets, tout en s’assurant directement de la fiabilité de l’information. Ensuite, le fait de pouvoir travailler avec divers cœurs de métiers et en comprendre les enjeux me plait également énormément. 
+Je souhaite notamment apprendre et respecter les bonnes pratiques de sécurité informatique, et je m’intéresse également à la sécurisation du stockage des données, notamment via le cloud.
+
 Data Analyste →  Aprentie Data Engineer  |  Python, PowerBI, Hbase, HDFS, Spark, MongoDB, HTML, CSS, Bootstrap
 ## Profesionnellement : 
 *Je suis à la recherche d'une entreprise en **contrat d'apprentissage** dans le cadre de mon **master en data engineering** avec Diginamic.*
