@@ -9,12 +9,7 @@ Je suis passionnée par l’analyse de données pour deux raisons :
 Je souhaite notamment apprendre et respecter les bonnes pratiques de sécurité informatique, et je m’intéresse également à la sécurisation du stockage des données, notamment via le cloud.
 
 ## Profesionnellement : 
-*Je suis à la recherche d'une entreprise en **contrat d'apprentissage** dans le cadre de mon **master en data engineering** avec Diginamic.*
- - **Modalités de formation** : à distance
- - **Durée de formation** : 19 mois
- - **Rythme** : 2 mois de formation initiale puis périodes de 7 à 8 semaines en entreprise et 2 semaines en formation.
- - **Début** : 25 avril 2024
- - **Fin** : 28 novembre 2025
+En alternance chez Bouygues Télécoms dans le cadre de la formation bac +5 Data engineer chez Diginamic.
 
 ## Mes projets : [en cours de chargement sur GitHub]
 ### Orientés data réalisés au cours de ma formation POEC Data Analyst chez Diginamic : 
